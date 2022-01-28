@@ -31,7 +31,7 @@ The Universal Minecraft Resource Converter is a tool that allows you to convert 
 
 Team Members Github Links
 * [BJTMastermind](https://www.github.com/BJTMastermind) (Owner) | I did all the Java and some Python in the project
-* [Cowboy8625](https://www.github.com/cowboy8625) | Helped me with Python in the project
+* [Cowboy8625](https://www.github.com/cowboy8625) | Helped <span title="BJTMastermind">[me](https://github.com/BJTMastermind)</span> with Python in the project
 
 # Screen Shots
 

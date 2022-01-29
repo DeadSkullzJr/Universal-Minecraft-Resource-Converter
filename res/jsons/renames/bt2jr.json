@@ -1,0 +1,8 @@
+{
+   "rename": [
+      {
+         "from": "pack_icon.png",
+         "to": "pack.png"
+      }
+   ]
+}

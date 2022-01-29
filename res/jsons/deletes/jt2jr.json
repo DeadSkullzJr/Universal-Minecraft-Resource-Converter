@@ -1,0 +1,8 @@
+{
+   "delete": [
+      "terrain.png",
+      "pack.txt",
+      "item",
+      "terrain"
+   ]
+}

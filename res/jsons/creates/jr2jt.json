@@ -1,0 +1,8 @@
+{
+   "create": [
+      "pack.mcmeta",
+      "terrain",
+      "item",
+      "title"
+   ]
+}

@@ -2,11 +2,6 @@
 
   A Minecraft resource converter that will allow you to convert your pack to any of the following combinations.<br>
   
-  Key:
-- [ ] = Not implemented yet.
-- [x] = Has been implemented.
-<hr>
-
 - [x] Resource Pack -> Java Texture Pack                                                                                               
 - [ ] Resource Pack -> Bedrock Texture Pack                                                                                              
 - [x] Java Texture Pack -> Resource Pack                                                                                               
@@ -14,9 +9,9 @@
 - [ ] Bedrock Texture Pack -> Resource Pack                                                                                            
 - [ ] Bedrock Texture Pack -> Java Texture Pack 
 
-## Up To Date Version in Rust
+## Newer Version in Rust
 
-[https://github.com/BJTMastermind/UMRC](https://github.com/BJTMastermind/UMRC)
+<https://github.com/BJTMastermind/UMRC> (Also discontinued)
 
 ## Minimum Java / Python Versions
 
